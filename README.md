@@ -1,3 +1,3 @@
 # vite-base-project
 
-This is base empty vite-vue project
+This is the a base empty vite-vue project
